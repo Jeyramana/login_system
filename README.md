@@ -6,6 +6,6 @@
   ###    3. No more than 1 period in name field
   ###    4. No special character in name field
   ###    5. Appropriate length for domain
-  ###    6. Password length b/w 5 - 16
-  ###    7. Password must contain chracters [a-z] [A-Z] [0-9] & Special characters
+  ###    6. Password length between 5 - 16
+  ###    7. Password must contain chracters [a-z], [A-Z], [0-9] & Special characters
    
